@@ -1,6 +1,7 @@
 # Microkernel - Jogo "Adivinhe o Número"
 
 *Vídeo explicativo: Disponível no arquivo `microkernel.mp4` na raiz do projeto* 
+
 https://github.com/user-attachments/assets/e723ffd2-d554-4169-92f4-236a9d6220a4
 
 Este projeto é um microkernel desenvolvido em **C e Assembly** que roda diretamente no emulador **QEMU**.  
